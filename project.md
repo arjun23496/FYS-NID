@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project
-permalink: /project/
+title: Final Report
+permalink: /final-report/
 ---
-Describe Final project.
+TBD.

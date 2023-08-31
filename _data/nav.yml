@@ -7,16 +7,16 @@ items:
   name: Schedule
   icon_class: fas fa-calendar-alt
 
-- url: /lectures/
-  name: Lectures
+- url: /discussions/
+  name: Discussions
   icon_class: fas fa-book-reader
 
-- url: /assignments/
-  name: Assignments
+- url: /activity/
+  name: Activity
   icon_class: fas fa-user-graduate
 
-- url: /project/
-  name: Project
+- url: /final-report/
+  name: Final Report
   icon_class: fas fa-user-graduate
 
 - url: /materials/

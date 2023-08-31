@@ -1,12 +1,12 @@
 # Site settings
 course_name: Nature Inspired Design in Computing
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
+course_description: "When scientists get stuck on a particular design or algorithm to solve a problem, they often take inspiration from nature. By studying and mimicking natural processes, computer scientists have developed innovative techniques and algorithms to solve complex problems, optimize resources, and enhance the performance and efficiency of computing systems. In this seminar, we will explore some fundamental design principles of nature, such as the behavior of ants, the structure of trees, and the organization of neurons, and how they can be applied to the design of computing systems. This course can provide you with tools to think outside the box and approach problems from a different perspective. By learning from nature's strategies, you can develop the ability to come up with creative and innovative solutions to challenges in computer science and other disciplines."
 course_semester: "Fall 2023"
 
 baseurl: "/FYS-NID" # the subpath of your site, e.g. /blog/
 url: "https://arjun23496.github.io/" # the base hostname & protocol for your site
 
-schoolname: "University of Massachusetts Amherst"
+schoolname: "Manning College of Information and Computer Sciences"
 schoolurl: "https://www.umass.edu/"
 twitter_username: ArjunK018 
 

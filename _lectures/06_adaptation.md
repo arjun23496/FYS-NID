@@ -1,8 +1,8 @@
 ---
 type: lecture
-date: 2023-09-05
-title: Introduction
-tldr: "Introduction to FYS-Nature Inspired Design in Computing."
+date: 2023-10-31
+title: Adaptation
+tldr: "A computer to play against."
 hide_from_announcments: true
 # thumbnail: /static_files/presentations/lec.jpg
 # links:

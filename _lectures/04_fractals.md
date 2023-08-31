@@ -1,8 +1,8 @@
 ---
 type: lecture
-date: 2023-09-05
-title: Introduction
-tldr: "Introduction to FYS-Nature Inspired Design in Computing."
+date: 2023-10-10
+title: Fractals
+tldr: "Draw a Tree."
 hide_from_announcments: true
 # thumbnail: /static_files/presentations/lec.jpg
 # links:

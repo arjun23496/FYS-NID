@@ -1,8 +1,8 @@
 ---
 type: lecture
-date: 2023-09-05
-title: Introduction
-tldr: "Introduction to FYS-Nature Inspired Design in Computing."
+date: 2023-11-7
+title: Self Organization
+tldr: "Conway's game of life."
 hide_from_announcments: true
 # thumbnail: /static_files/presentations/lec.jpg
 # links:
