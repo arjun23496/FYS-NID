@@ -78,8 +78,6 @@ integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="  crossorigin="an
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.2.0/fullcalendar.min.css">
 <link rel="stylesheet" media="print" href="//cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.2.0/fullcalendar.print.css">
 
-<div id="calendar"></div>
-
 <script>
 $(document).ready(function() {
 
@@ -89,6 +87,10 @@ $(document).ready(function() {
                 url: '/FYS-NID/calendar-data',
                 failure: function(){
                     console.log("Error in fetching calendar events");
+                },
+                success: function(content, response) {
+                    console.log("Success");
+                    console.log(content.eventArray);
                 }
             }
         ]
@@ -96,4 +98,6 @@ $(document).ready(function() {
     console.log("initialized")
 });
 
-</script> -->
+</script>
+
+<div id="calendar"></div> -->
