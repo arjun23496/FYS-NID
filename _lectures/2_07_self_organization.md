@@ -1,9 +1,10 @@
 ---
 type: lecture
-date: 2023-09-12
-title: Nature Inspired Design
-tldr: "We will look at some common examples of nature inspired design in engineering and science."
+date: 2023-11-08
+title: Self Organization
+tldr: "Game of life."
 hide_from_announcments: true
+section: 2
 # thumbnail: /static_files/presentations/lec.jpg
 # links:
 #     - url: https://google.com
