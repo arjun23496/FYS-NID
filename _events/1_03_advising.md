@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2023-10-24T08:00:00+3:30
+date: 2023-10-24
 name: Visit
 description: 'Advising'
 hide_from_announcments: true
